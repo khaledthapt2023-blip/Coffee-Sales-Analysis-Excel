@@ -35,4 +35,4 @@ An interactive Excel-based data analysis project that monitors and evaluates cof
 ![Dashboard](dashboard_preview.png)
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://shields.io)](https://linkedin.com)
+[LinkedIn](https://linkedin.com)
